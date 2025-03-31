@@ -27,7 +27,7 @@ Requests (for API integration)
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/tu-usuario/crypto-finances.git
+git clone https://github.com/ma-xi-punta/crypto-finances.git
 cd crypto-finances
 ```
 
